@@ -16,7 +16,7 @@ By leveraging Python and popular data science libraries (Pandas, Matplotlib, Sea
 
 ** Project Structure**
  
-commodity_price.csv – Source dataset containing daily price records.
+price.csv – Source dataset containing daily price records.
 
 analysis.ipynb – Jupyter notebook with code for data cleaning, exploration, and visualization.
 
